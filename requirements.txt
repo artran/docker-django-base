@@ -1,5 +1,6 @@
 BeautifulSoup
 Clockwork
+Django
 MySQL-python
 Pillow
 colour
@@ -11,6 +12,7 @@ django-otp
 django-secure
 django-sslify
 django-two-factor-auth
+djangorestframework
 lettuce
 nose
 numpy
