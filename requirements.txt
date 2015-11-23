@@ -20,7 +20,4 @@ psycopg2
 pycrypto
 python-magic
 requests
-simplejson
-splinter
-xhtml2pdf
 python-Levenshtein
