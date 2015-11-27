@@ -1,5 +1,3 @@
-BeautifulSoup
-Clockwork
 Django
 MySQL-python
 Pillow
@@ -15,9 +13,8 @@ django-two-factor-auth
 djangorestframework
 lettuce
 nose
-numpy
-psycopg2
 pycrypto
 python-magic
 requests
 python-Levenshtein
+ipython
