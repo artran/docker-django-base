@@ -1,15 +1,14 @@
 Django
 MySQL-python
+psycopg2
 Pillow
 colour
 django-extensions
 django-filter
 django-fixture-magic
-django-oauth2-provider
 django-otp
 django-secure
 django-sslify
-django-two-factor-auth
 djangorestframework
 lettuce
 nose
@@ -18,3 +17,4 @@ python-magic
 requests
 python-Levenshtein
 ipython
+mock
